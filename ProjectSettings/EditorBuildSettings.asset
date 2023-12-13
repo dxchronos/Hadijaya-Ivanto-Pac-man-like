@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5e90a8c78e3d2ca4ea44c261d4f85c92
+  - enabled: 1
+    path: Assets/Scenes/Pac-Man Gameplay.unity
+    guid: 3d2337720b082274db8d28e713dd93ff
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 25e35df52e2672442ae9cd37fb1ee5f3
+  - enabled: 1
+    path: Assets/Scenes/LoseScreen.unity
+    guid: 05599eb28c1ee89489cdfbb09d1e8615
   m_configObjects: {}
